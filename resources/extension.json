@@ -3,6 +3,6 @@
   "name": "Material Design Icons",
   "version": "1.0.0",
   "publisher": "Material Extensions",
-  "description": "Material Design 文件图标主题，覆盖常见语言、框架、配置和目录名。",
+  "description": "为文件和文件夹提供 Material Design 风格图标，根据文件名、扩展名和目录名匹配语言、工具及项目图标，让项目结构更直观、常用文件更易辨认。",
   "entry": "bin/material-icons"
 }
